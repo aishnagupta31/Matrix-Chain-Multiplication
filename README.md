@@ -46,6 +46,6 @@ Input Example:
 30 5
 5 60
 
-g++ matrix_chain.cpp -o matrix_chain
-./matrix_chain
+g++ question_1.cpp -o question_1
+./question_1
 
